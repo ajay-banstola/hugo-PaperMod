@@ -116,3 +116,7 @@ img {
     display: block;
     max-width: 100%;
 }
+
+title {
+    display: None;
+}
